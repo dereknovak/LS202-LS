@@ -37,13 +37,13 @@ https://learn.shayhowe.com/html-css/building-your-first-web-page/
 
 ### Bold
 
-- <strong></strong>
-- <b></b>
+- `<strong></strong>`
+- `<b></b>`
 
 ## Italic
 
-- <em></em>
-- <i></i>
+- `<em></em>`
+- `<i></i>`
 
 # CSS
 

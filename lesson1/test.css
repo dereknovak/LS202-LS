@@ -1,15 +1,19 @@
-div {
-  background-color: #c0ffc0;
-  border: 1px solid green;
-  padding: 10px;
+html {
+  font-size: 32px
 }
 
-p {
-  background-color: white;
-  border: 1px solid blue;
+body {
+  background-image: url("http://d3jtzah944tvom.cloudfront.net/202/images/lesson_3/gradient-background.png");
+}
+
+section {
   display: inline-block;
-  margin: 0 2%;
-  padding: 10px;
-  vertical-align: middle;
-  width: 40%;
+  width: 500px
+}
+
+nav {
+  background-image: url("http://d3jtzah944tvom.cloudfront.net/202/images/lesson_3/blurry.png");
+  display: inline-block;
+  height: 200px;
+  width: 250px
 }

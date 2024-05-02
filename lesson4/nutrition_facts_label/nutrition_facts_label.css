@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+html, body {
+  font-size: 28px
+}
+
+body {
+  border: 2px solid black;
+  font-family: Helvetica;
+  font-size: 28px;
+  margin: 8px;
+  padding-top: 9px;
+  padding-left: 16px;
+  width: 656px
+}
+
+dt {
+  display: inline-block;
+  font-weight: bold;
+}
+
+dt.sub-category {
+  font-weight: normal;
+}
+
+dd {
+  display: inline-block
+}
+
+td.percentage {
+  text-align: right;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  font-size: 2rem;
+}
+
+h2 {
+  border-top: 30px solid black;
+  border-bottom: 1px solid black;
+  font-size: 1rem;
+  padding: 5px 0;
+  width: 640px
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: normal;
+  padding: 2px 0;
+}
+
+header dl {
+  display: inline-block;
+  text-align: right;
+}
+
+p {
+  border-top: 1px solid black;
+  font-size: 0.9rem;
+  padding: .5rem 0 .5rem .7rem;
+  text-align: left;
+  text-indent: -0.7rem;
+}
+
+table {
+  border-collapse: collapse;
+  padding: 5px 0;
+  width: 640px;
+}
+
+table#general-info {
+  font-size: .8rem;
+  text-align: left;
+}
+
+table#general-info th {
+  border-bottom: 1px solid black;
+  font-weight: normal;
+}
+
+table#general-info td {
+  border: none;
+  font-size: .8rem;
+  width: 50px
+}
+
+tfoot {
+  border-top: 20px solid black;
+}
+
+table#product-info {
+  border-top: 15px solid black;
+}
+
+td {
+  display: table-cell;
+  border-top: 1px solid black;
+  padding: 3px 0;
+}
+
+td.indent {
+  border-top: none;
+  text-indent: 30px;
+  width: 1rem
+}

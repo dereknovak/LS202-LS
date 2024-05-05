@@ -7,7 +7,7 @@
 }
 
 fieldset {
-  width: 800px;
+  width: 657px;
   margin: 10px auto;
   border: 0
 }
@@ -37,9 +37,16 @@ dl.city {
   width: 50%;
 }
 
-dl.city input,
+dl.city dt {
+  margin-bottom: 6px;
+}
+
+dl.city input {
+  width: 95%;
+}
+
 dl.state select {
-  width: 100%;
+  width: 90%
 }
 
 dl.state select {
